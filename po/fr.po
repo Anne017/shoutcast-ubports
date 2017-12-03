@@ -32,7 +32,7 @@ msgstr "SHOUTcast"
 
 #: /home/ubucon/shoutcast-ubports/shoutcast-ubports/Main.qml:73
 msgid "About"
-msgstr " propos"
+msgstr "À propos"
 
 #: /home/ubucon/shoutcast-ubports/shoutcast-ubports/Main.qml:78
 msgid "Help"
@@ -41,7 +41,7 @@ msgstr "Aide"
 #: /home/ubucon/shoutcast-ubports/shoutcast-ubports/Main.qml:83
 #: /home/ubucon/shoutcast-ubports/shoutcast-ubports/pages/SettingsPage.qml:22
 msgid "Settings"
-msgstr "Paramtres"
+msgstr "Paramètres"
 
 #: /home/ubucon/shoutcast-ubports/shoutcast-ubports/Main.qml:100
 msgid "Genre"
@@ -66,27 +66,27 @@ msgstr "Erreur"
 
 #: /home/ubucon/shoutcast-ubports/shoutcast-ubports/pages/AboutPage.qml:16
 msgid "About SHOUTcast"
-msgstr " propos de SHOUTcast"
+msgstr "À propos de SHOUTcast"
 
 #: /home/ubucon/shoutcast-ubports/shoutcast-ubports/pages/AboutPage.qml:69
 msgid "SHOUTcast player for UBPorts"
-msgstr ""
+msgstr "Lecteur SHOUTcast pour UBPorts"
 
 #: /home/ubucon/shoutcast-ubports/shoutcast-ubports/pages/AboutPage.qml:85
 msgid "sources: https://github.com/wdehoog/shoutcast-ubports"
-msgstr ""
+msgstr "Code source[nbsp]: https://github.com/wdehoog/shoutcast-ubports"
 
 #: /home/ubucon/shoutcast-ubports/shoutcast-ubports/pages/AboutPage.qml:92
 msgid "License: MIT"
-msgstr ""
+msgstr "License[nbsp]: MIT"
 
 #: /home/ubucon/shoutcast-ubports/shoutcast-ubports/pages/AboutPage.qml:103
 msgid "Translations"
-msgstr ""
+msgstr "Traductions"
 
 #: /home/ubucon/shoutcast-ubports/shoutcast-ubports/pages/AboutPage.qml:124
 msgid "Thanks to"
-msgstr ""
+msgstr "Merci à"
 
 #: /home/ubucon/shoutcast-ubports/shoutcast-ubports/pages/GenrePage.qml:21
 msgid "Genres"
@@ -105,7 +105,7 @@ msgid ""
 "<p>This app allows to browse the <b>SHOUTcast</b> database and tune in on "
 "internet radio stations.</p>"
 msgstr ""
-"<p>Cette application permet de parcourir la base de donnes <b>SHOUTcast</b> "
+"<p>Cette application permet de parcourir la base de données <b>SHOUTcast</b> "
 "en se focalisant sur les stations de radio sur Internet.</p>"
 
 #: /home/ubucon/shoutcast-ubports/shoutcast-ubports/pages/SearchPage.qml:50
@@ -124,11 +124,11 @@ msgstr "Chercher dans[nbsp]: "
 
 #: /home/ubucon/shoutcast-ubports/shoutcast-ubports/pages/SearchPage.qml:323
 msgid "Now Playing"
-msgstr "Actuellement cout"
+msgstr "Lecture en cours"
 
 #: /home/ubucon/shoutcast-ubports/shoutcast-ubports/pages/SearchPage.qml:324
 msgid "Keywords"
-msgstr "Mots-cls"
+msgstr "Mots-clés"
 
 #: /home/ubucon/shoutcast-ubports/shoutcast-ubports/pages/SettingsPage.qml:46
 msgid "Show Station Logos in lists (crashes with large lists)"
@@ -138,11 +138,11 @@ msgstr ""
 
 #: /home/ubucon/shoutcast-ubports/shoutcast-ubports/pages/SettingsPage.qml:59
 msgid "Maximum number of results to ask the server (per query)"
-msgstr "Nombre maximum de rsultats  demander au serveur (par requte)"
+msgstr "Nombre maximum de résultats à demander au serveur (par requête)"
 
 #: /home/ubucon/shoutcast-ubports/shoutcast-ubports/pages/SettingsPage.qml:72
 msgid "Time to wait for response from server (seconds)"
-msgstr "Temps d'attente avant une rponse du serveur (en secondes)"
+msgstr "Temps d'attente avant une réponse du serveur (en secondes)"
 
 #: /home/ubucon/shoutcast-ubports/shoutcast-ubports/pages/SettingsPage.qml:85
 msgid "Mime Type Filter"
